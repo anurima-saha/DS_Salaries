@@ -1,4 +1,4 @@
-# DS_Salaries
+# Data Exploration and Visualization using Matplotlib and Seaborn
 
 ## DATASET : SALARY DATA FOR DATA SCIENCE JOBS
 
